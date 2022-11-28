@@ -1,0 +1,19 @@
+.red {
+    background-color: rgba(245, 66, 125, 0.3);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#transparent {
+    color: rgb(66, 93, 245);
+    font-size: 36px;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(66, 245, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
